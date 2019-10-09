@@ -2,122 +2,63 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Education
+M.Tech. (Hons.) Computational and Data Sciences (with GPA 8.65/10) From Indian Institute of Sciences (IISc), Bengaluru, India\\
+B.E. (Hons.) Computer Science (with First Division) From Birla Institute of Technology and Science (BITS), Pilani, India\\
+Intermediate Public Examination (with 97.6%)\\
+Secondary School Certificate Exam (with 90.67%)
 
-There should be whitespace between paragraphs.
+# Work Experience
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Summer 2019
+Research Intern at
+Target Corporation
+, Bengaluru
+•
+Worked on intent classification problem in chat conversation
+•
+Designed and implemented multiple approaches to solve above problem and pro-
+posed a better approach over pre-trained models.
+Jul 2017 - Jul 2018
+Software Engineer at
+Bluejeans Networks
+, Bengaluru
+•
+Took ownership for development of multiple middle-ware micro services.
+•
+Identified point of failures and tech debts in services and resolved them.
+•
+Worked on multiple integration like Panopto, Zuora and SSO authorization.
+Jul 2016 - Dec 2016
+Intern at
+Bluejeans Networks
+, Bengaluru
+•
+Developed an application to detect malfunctioning of APIs based on current and
+past metrics.
+•
+The app actively queries New Relic data and notifies the team through slack in
+case of anomaly detection
 
-# Header 1
+# Skills
+Pytorch, python, JAVA, C/C++, OpenMP, MPI, PySpark, MySQL, MongoDB, NodeJS, Docker
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Courses
+Natural Language Understanding, Machine Learning, Data Analysis \& Visualization, Random Process, Artificial Intelligence, Cognitive Neuroscience
 
-## Header 2
+# Projects
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+# Misc.
+ecipient of Target Fellowship 2018-20
+2
+018  All India Rank 94 in Computer Science Paper of GATE-2018
+2
+015  Member of Technical Review team for book ’Building an FPS Game with
+Unity’ published by PACKT
+2
+015  Developed Rubik’s cube application as part of Microsoft hackathon
+2
+015-16  Coordinator of Game Development Team, Coding Club BITS Pilani
+2
+013-17  Member Film Making Club, BITS-Pilan
